@@ -69,17 +69,22 @@ I’m passionate about building real‑world software, exploring **Artificial In
 
 ## 📊 GitHub Stats
 
+</div>
+<div align="center">
+  <img src="https://github.com/AbdulWasayTabba/AbdulWasayTabba/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit">
+</div>
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWasayTabba&layout=compact&theme=vision-friendly-dark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulWasayTabba&show_icons=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulWasayTabba&show_icons=true&theme=github_dark" />
 </a>
 
 </div>
+<div align="center">
+<div align="center">
+  <img src="https://github.com/AbdulWasayTabba/AbdulWasayTabba/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+</div>
+
 
 
 ---
