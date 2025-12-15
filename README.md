@@ -85,7 +85,7 @@ I’m passionate about building real‑world software, exploring **Artificial In
   <img src="https://github.com/AbdulWasayTabba/AbdulWasayTabba/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </div>
 
-
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 
