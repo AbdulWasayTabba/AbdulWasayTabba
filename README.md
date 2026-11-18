@@ -1,69 +1,42 @@
-# Hi there, I'm Abdul Wasay Tabba 👋
+# Abdul Wasay Tabba
 
-🎓 **Computer Science Student (3rd year)** | 💻 **Aspiring AI Engineer** | 🚀 **Full‑Stack & ML Enthusiast**
+**AI/ML & automation engineer · .NET developer**
 
-I’m passionate about building real‑world software, exploring **Artificial Intelligence**, and continuously improving my problem‑solving skills through projects and practice.
-
----
-
-## 🧠 About Me
-
-* 📍 Based in **Pakistan**
-* 🧩 Strong interest in **AI, Machine Learning & Data Science**
-* 🏗️ Experience with **backend systems, databases, and academic projects**
-* 📈 Constantly learning and improving through hands‑on projects
+Computer Science student based in Pakistan. I build two kinds of things: LLM-agent and machine-learning projects in Python, and web applications on ASP.NET Core.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured projects
 
-### 💻 Languages I have worked in
+### AI / ML
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp\&logoColor=green)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly%20(x86)-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Project | What it is | Stack |
+|---|---|---|
+| [BusinessConsultantBot (BizGPT)](https://github.com/AbdulWasayTabba/BusinessConsultantBot) | Multi-agent business consultant: a graph of agents profiles a business, pauses to ask clarifying questions, runs domain research agents, then a judge agent reviews the plan before a final report. | Python, LangGraph, Ollama (local LLMs), Streamlit |
+| [ML-Journey](https://github.com/AbdulWasayTabba/ML-Journey) | My learning notebooks: perceptrons and backpropagation, ANN regression/classification, CNNs (LeNet, cats vs dogs), RNN/LSTM next-word prediction, dropout, early stopping, Keras Tuner. | Jupyter, TensorFlow/Keras, scikit-learn |
+| [House-Prices-ML](https://github.com/AbdulWasayTabba/House-Prices-ML) | House price regression notebook. | Jupyter, pandas, scikit-learn, seaborn |
 
-### 🗄️ Databases
+### .NET and systems
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![EMU8086](https://img.shields.io/badge/EMU8086-Assembly-blue?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-### **Machine Learning / Data Science**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+| Project | What it is | Stack |
+|---|---|---|
+| [OnlineVotingSystem](https://github.com/AbdulWasayTabba/OnlineVotingSystem) | Course project: online elections with voter, candidate and admin roles, layered into controllers, services and repositories. | ASP.NET Core 8 MVC, EF Core, SQL Server, JWT, BCrypt |
+| [Clean_Pakistan](https://github.com/AbdulWasayTabba/Clean_Pakistan) | Civic-issue reporting: citizens file geotagged issues (potholes, garbage, water) that move through pending, verified and resolved. Web API plus a React client. | ASP.NET Core 8 Web API, EF Core, SQL Server, React (Vite) |
+| [MaxLang](https://github.com/AbdulWasayTabba/MaxLang_AbdulWasayTabba) | A small language and its compiler pipeline in one C++ file: lexer, parser to AST, semantic checks, interpreter, with line/column error messages. | C++ |
 
 ---
 
-## 📌 Featured Projects
+## Tech I have used in these repositories
 
-* 🧮 **Numerical Computing Calculator** – Web‑based numerical methods tool
-* 🏥 **Hospital / Shoe Management System** – Assembly & system‑level logic
-* 🏦 **Bank Loan Decision Tree (ML)** – Machine learning classification
-* 🏠 **House Prices Prediction** – Regression using ML
-* 🌐 **Node + PostgreSQL API** – Backend CRUD system
+**Languages:** Python · C# · C++ · JavaScript · HTML/CSS · x86 Assembly
 
-➡️ Check out my repositories for more!
+**Backend and web:** ASP.NET Core (MVC and Web API) · Entity Framework Core · FastAPI · Node.js · React (Vite)
+
+**AI / ML:** LangGraph · Ollama · TensorFlow/Keras · scikit-learn · pandas · NumPy · Matplotlib · seaborn · Streamlit
+
+**Databases:** SQL Server · PostgreSQL
+
+**Tools:** Git · GitHub Actions · Visual Studio · VS Code · Jupyter
 
 ---
 
