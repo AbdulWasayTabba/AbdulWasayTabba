@@ -2,7 +2,9 @@
 
 **AI/ML & automation engineer · .NET developer**
 
-Computer Science student based in Pakistan. I build two kinds of things: LLM-agent and machine-learning projects in Python, and web applications on ASP.NET Core.
+Final-year Computer Science student (4th year, 7th semester, graduating 2027) based in Pakistan. I build two kinds of things: LLM-agent and machine-learning projects in Python, and web applications on ASP.NET Core.
+
+Open to AI/ML engineering, AI automation and .NET software engineering roles (graduating 2027).
 
 ---
 
