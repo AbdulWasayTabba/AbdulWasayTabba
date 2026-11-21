@@ -15,6 +15,7 @@ Open to AI/ML engineering, AI automation and .NET software engineering roles (gr
 | Project | What it is | Stack |
 |---|---|---|
 | [BusinessConsultantBot (BizGPT)](https://github.com/AbdulWasayTabba/BusinessConsultantBot) | Multi-agent business consultant: a graph of agents profiles a business, pauses to ask clarifying questions, runs domain research agents, then a judge agent reviews the plan before a final report. | Python, LangGraph, Ollama (local LLMs), Streamlit |
+| [StockBot](https://github.com/AbdulWasayTabba/StockBot) | Shariah-screened trading assistant: a LangGraph agent gates stocks on a rule-based Shariah screen, combines news sentiment, fundamentals and momentum, and a local LLM returns buy/sell/hold signals; an ASP.NET Core API polls it and can place Alpaca paper-trading orders. | Python, LangGraph, Ollama, FastAPI, ASP.NET Core 8, React (Vite) |
 | [ML-Journey](https://github.com/AbdulWasayTabba/ML-Journey) | My learning notebooks: perceptrons and backpropagation, ANN regression/classification, CNNs (LeNet, cats vs dogs), RNN/LSTM next-word prediction, dropout, early stopping, Keras Tuner. | Jupyter, TensorFlow/Keras, scikit-learn |
 | [House-Prices-ML](https://github.com/AbdulWasayTabba/House-Prices-ML) | House price regression notebook. | Jupyter, pandas, scikit-learn, seaborn |
 
