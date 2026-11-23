@@ -67,8 +67,8 @@ Open to AI/ML engineering, AI automation and .NET software engineering roles (gr
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: *(www.linkedin.com/in/abdul-wasay-tabba-853bb0369)*
-* 📧 Email: *(wasaytabba704@gmail.com)*
+* 💼 LinkedIn: [linkedin.com/in/abdul-wasay-tabba](https://www.linkedin.com/in/abdul-wasay-tabba)
+* 📧 Email: [wasaytabba704@gmail.com](mailto:wasaytabba704@gmail.com)
 
 ---
 
